@@ -1,0 +1,25 @@
+{
+  "name": "http2-server-prototype",
+  "version": "1.0.0",
+  "description": "Prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/permalost/http2-server-prototype.git"
+  },
+  "author": "permalost",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/permalost/http2-server-prototype/issues"
+  },
+  "homepage": "https://github.com/permalost/http2-server-prototype#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "spdy": "^3.4.7"
+  }
+}
